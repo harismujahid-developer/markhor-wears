@@ -15,6 +15,6 @@ A full-stack e-commerce web application and administrative solution tailored for
 ## 💻 Setup Instructions
 1. Clone or download this project directory.
 2. Place the folder inside your local environment path (e.g., `xampp/htdocs/`).
-3. Import the corresponding database schema (e.g., `mw_db.sql`) through **phpMyAdmin**.
+3. Import the corresponding database schema (e.g., `mar_wears_db.sql`) through **phpMyAdmin**.
 4. Check your central configuration file to verify local database connection details match.
-5. Turn on Apache and MySQL in XAMPP, then open `http://localhost/markhor-wears/` in your browser.
+5. Turn on Apache and MySQL in XAMPP, then open `http://localhost/markhor-wears-admin/` in your browser.
